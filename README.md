@@ -1,4 +1,4 @@
-2nd year computer science student at UOttawa
+2nd year Computer Science student at UOttawa
 
 Seeking co-op term for Summer 2023
 
