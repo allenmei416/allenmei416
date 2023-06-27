@@ -1,6 +1,6 @@
-2nd year Computer Science student at UOttawa
+3rd year Computer Science student at UOttawa
 
-Seeking co-op term for Summer 2023
+Seeking co-op term for Jan 2024
 
 Python, Java, C#, HTML, CSS, .NET Framework
 
