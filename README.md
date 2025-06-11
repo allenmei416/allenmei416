@@ -1,7 +1,5 @@
 4th year Computer Science student at UOttawa
 
-Seeking co-op for Summer 2025
-
 Python, Java, C#, HTML, CSS, .NET Framework
 
 <!--
